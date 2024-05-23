@@ -1,0 +1,172 @@
+﻿<Window 
+        x:Class="Smart_Type_WPF.Windows.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Smart_Type_WPF"
+        xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Smart Type" Width="385" Height="320" MinWidth="300" MinHeight="200"
+        FocusManager.FocusedElement="{Binding ElementName=LoginPasswordBox}"
+        UseLayoutRounding="True" WindowStartupLocation="CenterScreen" AllowsTransparency="True" 
+        ResizeMode="NoResize" Background="Transparent" Foreground="Transparent" 
+        Cursor="" Icon="/Windows/st.ico" WindowStyle="None" MouseMove="Window_MouseMove">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid x:Name="View_Login" Background="Transparent"  >
+        <Border BorderThickness="1" BorderBrush="Gray"  CornerRadius="15,15,15,15" Background="#FF2D2C2C" />
+        <TextBox 
+            x:Name="Box_LoginAccount"
+            Width="300"
+            HorizontalAlignment="Center"
+            InputMethod.IsInputMethodEnabled="False"
+            VerticalAlignment="Top"
+            md:HintAssist.HelperText="請 輸 入 長 度 至 少 4 的 英 文 與 數 字 組 合"
+            md:HintAssist.Hint="Account"
+            Style="{StaticResource MaterialDesignOutlinedTextBox}" 
+            Margin="0,32,0,0" 
+            CaretBrush="#FF1D9EA7" 
+            SelectionBrush="#FF57C8D0" 
+            BorderBrush="#FF1D9EA7" 
+            Foreground="#FF57C8D0" 
+            md:HintAssist.Background="#FF2D2C2C"
+            md:HintAssist.Foreground="#FF0F6A71"
+            md:HintAssist.FloatingScale="1"
+            FontWeight="Bold" >
+            <TextBox.SelectionTextBrush>
+                <ImageBrush/>
+            </TextBox.SelectionTextBrush>
+        </TextBox>
+
+        <PasswordBox
+            x:Name="Box_LoginPassword"
+            Width="300"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            MaxLength="32"
+            md:HintAssist.HelperText="請 輸 入 長 度 至 少 4 的 英 文 與 數 字 組 合"
+            md:HintAssist.Hint="Password"
+            Style="{StaticResource MaterialDesignOutlinedRevealPasswordBox}"
+            CaretBrush="#FF1D9EA7" 
+            SelectionBrush="#FF57C8D0" 
+            BorderBrush="#FF1D9EA7" 
+            Foreground="#FF57C8D0" 
+            md:HintAssist.Background="#FF2D2C2C"
+            md:HintAssist.Foreground="#FF0F6A71"
+            md:HintAssist.FloatingScale="1"
+            FontWeight="Bold" 
+            Margin="0,129,0,0">
+            <PasswordBox.SelectionTextBrush>
+                <ImageBrush/>
+            </PasswordBox.SelectionTextBrush>
+        </PasswordBox>
+        <Button 
+                x:Name="btn_register" 
+                Content="註冊" 
+                HorizontalAlignment="Left" 
+                Margin="272,265,0,0" 
+                VerticalAlignment="Top" 
+                BorderBrush="#FF0F6A71" 
+                RenderTransformOrigin="1.083,1.188" 
+                Background="{x:Null}" 
+                Click="btn_register_Click"/>
+        <Button 
+                x:Name="btn_login" 
+                Content="登入" 
+                HorizontalAlignment="Left" 
+                Margin="272,225,0,0" 
+                VerticalAlignment="Top" 
+                Background="#FF0F6A71" 
+                BorderBrush="#FF0F6A71" 
+                Click="btn_login_Click"/>
+        <Button 
+                x:Name="btn_free" 
+                Content="不登入直接使用" 
+                HorizontalAlignment="Center" 
+                Margin="0,265,0,0" 
+                VerticalAlignment="Top" 
+                Background="{x:Null}" 
+                BorderBrush="#FF0F6A71" 
+                Click="btn_free_Click"/>
+        <Label x:Name="Lable_Resultstr" 
+               Content="" 
+               HorizontalAlignment="Left" 
+               Margin="42,231,0,0" 
+               VerticalAlignment="Top" 
+               FontWeight="Bold" 
+               Foreground="#DDFFFFFF"/>
+        <TextBox 
+            x:Name="Box_RegisterAccount"
+            Width="300"
+            InputMethod.IsInputMethodEnabled="False"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            md:HintAssist.HelperText="請 輸 入 長 度 至 少 4 的 英 文 與 數 字 組 合"
+            md:HintAssist.Hint="設 定 帳 號"
+            Style="{StaticResource MaterialDesignOutlinedTextBox}" 
+            Margin="0,18,0,0" 
+            CaretBrush="#FF1D9EA7" 
+            SelectionBrush="#FF57C8D0" 
+            BorderBrush="#FF1D9EA7" 
+            Foreground="#FF57C8D0" 
+            md:HintAssist.Background="#FF2D2C2C"
+            md:HintAssist.Foreground="#FF0F6A71"
+            md:HintAssist.FloatingScale="1"
+            FontWeight="Bold" Visibility="Hidden" >
+            <TextBox.SelectionTextBrush>
+                <ImageBrush/>
+            </TextBox.SelectionTextBrush>
+        </TextBox>
+        <PasswordBox
+            x:Name="Box_RegisterPassword_1"
+            Width="300"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            MaxLength="32"
+            md:HintAssist.HelperText=""
+            md:HintAssist.Hint="設 定 密 碼"
+            Style="{StaticResource MaterialDesignOutlinedRevealPasswordBox}"
+            CaretBrush="#FF1D9EA7" 
+            SelectionBrush="#FF57C8D0" 
+            BorderBrush="#FF1D9EA7" 
+            Foreground="#FF57C8D0" 
+            md:HintAssist.Background="#FF2D2C2C"
+            md:HintAssist.Foreground="#FF0F6A71"
+            md:HintAssist.FloatingScale="1"
+            FontWeight="Bold" 
+            Margin="0,93,0,0" Visibility="Hidden">
+            <PasswordBox.SelectionTextBrush>
+                <ImageBrush/>
+            </PasswordBox.SelectionTextBrush>
+        </PasswordBox>
+        <PasswordBox
+            x:Name="Box_RegisterPassword_2"
+            Width="300"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            MaxLength="32"
+            md:HintAssist.HelperText="請 輸 入 長 度 至 少 4 的 英 文 與 數 字 組 合"
+            md:HintAssist.Hint="確 認 密 碼"
+            Style="{StaticResource MaterialDesignOutlinedRevealPasswordBox}"
+            CaretBrush="#FF1D9EA7" 
+            SelectionBrush="#FF57C8D0" 
+            BorderBrush="#FF1D9EA7" 
+            Foreground="#FF57C8D0" 
+            md:HintAssist.Background="#FF2D2C2C"
+            md:HintAssist.Foreground="#FF0F6A71"
+            md:HintAssist.FloatingScale="1"
+            FontWeight="Bold" 
+            Margin="0,160,0,0" Visibility="Hidden">
+            <PasswordBox.SelectionTextBrush>
+                <ImageBrush/>
+            </PasswordBox.SelectionTextBrush>
+        </PasswordBox>
+    </Grid>
+</Window>

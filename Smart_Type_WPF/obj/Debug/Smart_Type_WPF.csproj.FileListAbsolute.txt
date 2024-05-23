@@ -1,0 +1,459 @@
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.config
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.pdb
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Google.Protobuf.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Hash.xxHash.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignColors.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MySql.Data.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Buffers.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.IO.Pipelines.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Memory.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Numerics.Vectors.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\ZstdSharp.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Google.Protobuf.pdb
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Google.Protobuf.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Hash.xxHash.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignColors.pdb
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MySql.Data.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Buffers.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.IO.Pipelines.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Memory.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Numerics.Vectors.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.AssemblyReference.cache
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.SuggestedBindingRedirects.cache
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.g.cs
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.g.cs
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.g.cs
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.cache
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.lref
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.baml
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.baml
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.baml
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.g.resources
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.Properties.Resources.resources
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.GenerateResource.cache
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CoreCompileInputs.cache
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CopyComplete
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe
+D:\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.pdb
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\ControlzEx.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\ControlzEx.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Components.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.JSInterop.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_type.exe
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Text.Encodings.Web.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Text.Json.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.ValueTuple.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\CSkin.dll
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_type.pdb
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_type.exe.config
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Components.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.JSInterop.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Text.Encodings.Web.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Text.Json.xml
+D:\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.g.cs
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.pdb
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.config
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.pdb
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\ControlzEx.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Text.Json.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\ZstdSharp.dll
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\ControlzEx.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Text.Json.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.baml
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.g.resources
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CopyComplete
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.config
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.pdb
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\BouncyCastle.Cryptography.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\ControlzEx.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Google.Protobuf.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Hash.xxHash.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignColors.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Components.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.JSInterop.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MySql.Data.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Buffers.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.IO.Pipelines.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Memory.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Numerics.Vectors.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Text.Encodings.Web.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Text.Json.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.ValueTuple.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\ZstdSharp.dll
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\BouncyCastle.Cryptography.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\ControlzEx.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Google.Protobuf.pdb
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Google.Protobuf.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\K4os.Hash.xxHash.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignColors.pdb
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Components.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.JSInterop.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\MySql.Data.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Buffers.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.IO.Pipelines.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Memory.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Numerics.Vectors.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Text.Encodings.Web.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Text.Json.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\bin\Debug\System.ValueTuple.xml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.AssemblyReference.cache
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.SuggestedBindingRedirects.cache
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.g.cs
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.g.cs
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\App.g.cs
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.cache
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.lref
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\App.baml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.baml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.baml
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.g.resources
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.Properties.Resources.resources
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.GenerateResource.cache
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CoreCompileInputs.cache
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CopyComplete
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe
+F:\Line Download\Smart_Type_WPF (5)\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.pdb
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.config
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.manifest
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.application
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.AssemblyReference.cache
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.SuggestedBindingRedirects.cache
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.config
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.g.cs
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.g.cs
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.g.cs
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.g.cs
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.cache
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.lref
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.baml
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.baml
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.baml
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.baml
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.g.resources
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.Properties.Resources.resources
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.GenerateResource.cache
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CoreCompileInputs.cache
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.manifest
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.application
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.config
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.manifest
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.application
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.config
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.g.cs
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.g.cs
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.g.cs
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.cache
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.lref
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.baml
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.baml
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.baml
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.baml
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.g.resources
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.Properties.Resources.resources
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.manifest
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.application
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.Fody.CopyLocal.cache
+C:\Users\user\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.Fody.RuntimeCopyLocal.cache
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.config
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.manifest
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.application
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.AssemblyReference.cache
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.SuggestedBindingRedirects.cache
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.config
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.g.cs
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.g.cs
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.g.cs
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.g.cs
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.cache
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.lref
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.baml
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.baml
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.baml
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.baml
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.g.resources
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.Properties.Resources.resources
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.GenerateResource.cache
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CoreCompileInputs.cache
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.manifest
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.application
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.config
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.g.cs
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.g.cs
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.config
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.manifest
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.application
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.baml
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.baml
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.g.resources
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.manifest
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.application
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.Fody.RuntimeCopyLocal.cache
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\Loading.g.cs
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\Loading.baml
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\BouncyCastle.Cryptography.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\ControlzEx.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Costura.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Google.Protobuf.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Hash.xxHash.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignColors.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Components.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.JSInterop.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MySql.Data.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Newtonsoft.Json.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Buffers.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.IO.Pipelines.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Memory.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Net.Http.Json.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Numerics.Vectors.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Text.Encodings.Web.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Text.Json.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.ValueTuple.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\ZstdSharp.dll
+F:\Line Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CopyComplete
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\Loading.g.cs
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\Loading.baml
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\BouncyCastle.Cryptography.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\ControlzEx.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Costura.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Google.Protobuf.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\K4os.Hash.xxHash.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignColors.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Components.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Options.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.JSInterop.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\MySql.Data.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Newtonsoft.Json.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Buffers.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.ComponentModel.Annotations.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.IO.Pipelines.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Memory.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Net.Http.Json.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Numerics.Vectors.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Text.Encodings.Web.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Text.Json.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\System.ValueTuple.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\ZstdSharp.dll
+F:\school Download\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CopyComplete
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.config
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe.manifest
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.application
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\bin\Debug\Smart_Type_WPF.exe
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.AssemblyReference.cache
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.config
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\Loading.g.cs
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.g.cs
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.g.cs
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.g.cs
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.cache
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF_MarkupCompile.lref
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\App.baml
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\Loading.baml
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\LoginWindow.baml
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\TypeWindow.baml
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Windows\SetWindow.baml
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.g.resources
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.Properties.Resources.resources
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.GenerateResource.cache
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.CoreCompileInputs.cache
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe.manifest
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.application
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.exe
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.Fody.CopyLocal.cache
+C:\Users\csie2503\Downloads\Smart_Type_WPF\Smart_Type_WPF\obj\Debug\Smart_Type_WPF.csproj.Fody.RuntimeCopyLocal.cache

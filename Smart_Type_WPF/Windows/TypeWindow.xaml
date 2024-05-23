@@ -1,0 +1,80 @@
+﻿<Window x:Name="Type_Window" x:Class="Smart_Type_WPF.Windows.TypeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Smart_Type_WPF.Windows"
+        mc:Ignorable="d" Title="" Height="110" Width="501" 
+        ResizeMode="NoResize" WindowStyle="None" MouseMove="Window_MouseMove" 
+        Background="Transparent" Foreground="Transparent" AllowsTransparency="True" 
+        Icon="/Windows/st.ico" Top="700" Left="600" ShowInTaskbar="False" 
+        >
+
+    <Grid Margin="0,0,0,0">
+        <Border BorderThickness="1" BorderBrush="#FF0F6A71"  CornerRadius="15,15,15,15" Background="#FF0F6A71" />
+
+        <TextBox VerticalAlignment="Top" x:Name="txtShow" HorizontalAlignment="Center" 
+              TextWrapping="Wrap" Text="" Width="410" Height="30" TextChanged="txtShow_TextChanged" 
+              IsEnabled="False" Visibility="Hidden"/>
+
+        <Label x:Name="lblInput" Content="" HorizontalAlignment="Left" 
+                   Margin="63,379,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.533,-1.591" Grid.Column="1"/>
+        <Button
+          Content=""
+          Style="{StaticResource MaterialDesignRaisedButton}"
+          ToolTip="Resource name: MaterialDesignRaisedButton" 
+          Background="#FF2D2C2C" Margin="0,13,0,65" 
+          BorderBrush="#FF2D2C2C" IsEnabled="False" />
+        <TextBox x:Name="lblspell" 
+                     TextChanged="txtShow_TextChanged"  
+                     HorizontalAlignment="Left" 
+                     Margin="25,15,0,0" 
+                     VerticalAlignment="Top" 
+                     Width="380" 
+                     Height="30"
+                     BorderBrush="Transparent"
+                     IsReadOnly="True" Foreground="White" FontSize="18" 
+                     IsEnabled="False" FontWeight="Bold" FontFamily="Arial Black" />
+
+        <ListView x:Name="listView1" 
+                      ItemContainerStyle="{DynamicResource FileItemStyle}" Height="53" 
+                      Margin="0,57,0,0" VerticalAlignment="Top" 
+                      d:ItemsSource="{d:SampleData ItemCount=5}" 
+                      Foreground="White"
+                      md:ListBoxItemAssist.ShowSelection="False"
+                      ScrollViewer.VerticalScrollBarVisibility="Disabled" FontSize="16">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel/>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+        </ListView>
+
+        <materialDesign:PopupBox 
+          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+          PlacementMode="BottomAndAlignCentres" 
+          Style="{StaticResource MaterialDesignMultiFloatingActionPopupBox}"
+          ToolTip="工具"
+          ToolTipService.Placement="Right" Margin="465,4,0,80" Background="#FF2D2C2C" BorderBrush="#FF2D2C2C" Width="26" Height="26" Cursor="">
+            <materialDesign:PopupBox.ToggleContent>
+                <materialDesign:PackIcon Name ="btn_pop_kind" Kind="CogOutline" />
+            </materialDesign:PopupBox.ToggleContent>
+            <StackPanel>
+                <Button x:Name="btn_heart"
+                  Style="{StaticResource MaterialDesignFloatingActionMiniButton}"
+                  ToolTip="常用字串" BorderBrush="Transparent" Background="#FF2D2C2C" Click="btn_heart_Click">
+                    <materialDesign:PackIcon
+                        Kind="Heart" />
+                </Button>
+                <Button x:Name="btn_stop"
+                  Style="{StaticResource MaterialDesignFloatingActionMiniButton}"
+                  ToolTip="暫停使用" BorderBrush="Transparent" Background="#FF2D2C2C" Click="btn_stop_Click">
+                    <materialDesign:PackIcon 
+                        Kind="BlockHelper" />
+                </Button>
+            </StackPanel>
+        </materialDesign:PopupBox>
+    </Grid>
+</Window>
