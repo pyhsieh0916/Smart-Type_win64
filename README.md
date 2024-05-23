@@ -1,0 +1,1 @@
+# Smart-Type_win64
